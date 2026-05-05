@@ -1,1 +1,1 @@
-My First Git Project
+This is Student A's Project.
